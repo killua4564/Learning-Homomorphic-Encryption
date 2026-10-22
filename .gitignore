@@ -1,0 +1,15 @@
+# 學習筆記與階段回報：只公開 README.md
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SageMath 由 .sage 轉出的暫存檔
+*.sage.py
+
+# macOS
+.DS_Store
